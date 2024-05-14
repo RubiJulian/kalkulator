@@ -200,3 +200,9 @@ button {
     height: 50vh;
   }
 }
+@media (max-width: 400px) {
+  .container {
+    width: 80%;
+    height: 65vh;
+  }
+}
