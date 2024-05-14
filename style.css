@@ -187,3 +187,9 @@ button {
     height: 70vh;
   }
 }
+@media (max-width: 507px) {
+  .container {
+    width: 60%;
+    height: 70vh;
+  }
+}
